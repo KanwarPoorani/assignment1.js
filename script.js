@@ -21,6 +21,11 @@ var input= "Happy Coding!\n Prevent this page from creating additional dialogs."
 alert(input)
 
 
+var input= "Hello... I can run JS through my browser's console"
+console.log(input)
+
+
+
 
 // <-----Chapter-2------->
 
