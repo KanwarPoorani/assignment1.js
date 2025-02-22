@@ -83,7 +83,7 @@ document.write ("<b>"+ VisitorName+ "</b>"+ " ordered " + "<b>"+ Quantity +"</b>
 
 
 
-<-----Chapter-4------->
+// <-----Chapter-4------->
 
 // legal
 var inputName =("inputName")
